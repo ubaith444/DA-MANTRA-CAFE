@@ -5,8 +5,7 @@ A **conversion-focused redesign** of a local café website to improve user exper
 ---
 
 ## 🚀 Live Demo
-👉 https://your-live-link.netlify.app  
-
+👉da-mantra-cafe-g04fsp92x-ubaith-sherifs-projects.vercel.app
 ---
 
 ## 💼 Project Overview
@@ -118,9 +117,8 @@ This is not just a design project.
 
 If you want a similar website redesign:
 
-- 📧 your@email.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-
+- 📧  unscript.labs@gmail.com
+- 💼 LinkedIn:linkedin.com/in/unscript-labs-891a373b9
 ---
 
 ## 🔥 Positioning Statement
